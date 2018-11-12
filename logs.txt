@@ -1,0 +1,29 @@
+.
+[27-Oct-2018 15:55:13 America/New_York] PHP Warning:  Use of undefined constant CURL_CUSTOMREQUEST - assumed 'CURL_CUSTOMREQUEST' (this will throw an Error in a future version of PHP) in /home/lord-byron/git/rabbitmqphp_example/testDataPull.php on line 21
+[27-Oct-2018 15:55:13 America/New_York] PHP Warning:  curl_setopt() expects parameter 2 to be integer, string given in /home/lord-byron/git/rabbitmqphp_example/testDataPull.php on line 21
+[29-Oct-2018 18:29:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function createClientForRmq() in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php on line 34
+[29-Oct-2018 18:30:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function createClientForRmq() in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php on line 34
+[29-Oct-2018 18:34:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function createClientForRmq() in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php on line 34
+[29-Oct-2018 18:35:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function createClientForRmq() in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php on line 34
+[29-Oct-2018 18:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function createClientForRmq() in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php on line 34
+[29-Oct-2018 18:37:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function createClientForRmq() in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/lord-byron/git/rabbitmqphp_example/rabbitMQDatabaseErrorClient.php on line 34
+[29-Oct-2018 18:43:22 America/New_York] PHP Warning:  Use of undefined constant CURL_CUSTOMREQUEST - assumed 'CURL_CUSTOMREQUEST' (this will throw an Error in a future version of PHP) in /home/lord-byron/git/rabbitmqphp_example/testDataPull.php on line 21
+[29-Oct-2018 18:43:22 America/New_York] PHP Warning:  curl_setopt() expects parameter 2 to be integer, string given in /home/lord-byron/git/rabbitmqphp_example/testDataPull.php on line 21
